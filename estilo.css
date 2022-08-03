@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.menu{
+    background-color: #718387;
+    padding: 15px;
+}
+.links{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.links:hover{
+    background-color: #6495ed;
+}
+.cabecalho{
+    background-color: #98336C;
+    background: linear-gradient(90deg, #6495ed 0%, #98336C 100%);
+}
